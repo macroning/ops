@@ -14,7 +14,7 @@ Tools&scripts for devops.
 ## Get the scripts
 
 ```sh
-git clone https://github.com/feiskyer/ops.git --recurse-submodules
+git clone https://github.com/macroning/ops.git --recurse-submodules
 cd ops
 ```
 
